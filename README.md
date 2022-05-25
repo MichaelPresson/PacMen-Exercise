@@ -1,5 +1,5 @@
 # PacMen-Exercise
-In this exercise we
+In this project we made 
 
 #Description
 
@@ -8,3 +8,6 @@ In this exercise we
 
 
 #Roadmap
+
+
+pacman1.png
